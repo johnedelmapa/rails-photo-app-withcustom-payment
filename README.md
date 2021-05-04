@@ -1,0 +1,1 @@
+# rails-photo-app-withcustom-payment
